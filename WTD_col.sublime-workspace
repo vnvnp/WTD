@@ -1,0 +1,3274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AP",
+				"APT_ele_mod2"
+			],
+			[
+				"panel",
+				"panel_num"
+			],
+			[
+				"Ar",
+				"Array_0_6  (variable)"
+			],
+			[
+				"AT",
+				"ATGd"
+			],
+			[
+				"APT_",
+				"APT_ele_mod"
+			],
+			[
+				"Data",
+				"Dataprep"
+			],
+			[
+				"D",
+				"DPr"
+			],
+			[
+				"data",
+				"dataprep"
+			],
+			[
+				"obj",
+				"obj_ele_dict"
+			],
+			[
+				"APT",
+				"APT_ele"
+			],
+			[
+				"SP",
+				"SP_ele"
+			],
+			[
+				"cl",
+				"collect"
+			],
+			[
+				"S",
+				"SP_ele"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"z1_1",
+				"z1_1_A"
+			],
+			[
+				"a1",
+				"a15_0_mn_A"
+			],
+			[
+				"a15",
+				"a15_0_mn_s"
+			],
+			[
+				"pl",
+				"plt"
+			],
+			[
+				"O",
+				"O6  (variable)"
+			],
+			[
+				"plt",
+				"mkplt  (function)"
+			],
+			[
+				"a",
+				"a45_1_mn_A"
+			],
+			[
+				"l",
+				"rdxl_1  (function)"
+			],
+			[
+				"Proj",
+				"ProjectDir"
+			],
+			[
+				"mx",
+				"mxmn"
+			],
+			[
+				"list",
+				"listB"
+			],
+			[
+				"se",
+				"setuplot"
+			],
+			[
+				"alp",
+				"alpha_apt"
+			],
+			[
+				"mxm",
+				"mxmn_apt"
+			],
+			[
+				"Cp",
+				"Cp_vec_apt"
+			],
+			[
+				"col",
+				"colorindx"
+			],
+			[
+				"for",
+				"for_angle"
+			],
+			[
+				"C",
+				"Cp_1"
+			],
+			[
+				"G",
+				"GCpi"
+			],
+			[
+				"Go",
+				"Gov_LC_W_pos_max"
+			],
+			[
+				"xl",
+				"xlim_list"
+			],
+			[
+				"xlim",
+				"xlim_list"
+			],
+			[
+				"val",
+				"ValueLookedFor"
+			],
+			[
+				"shee",
+				"sheetname"
+			],
+			[
+				"M",
+				"MyFirstPackage"
+			],
+			[
+				"li",
+				"list_of_row_vecs"
+			],
+			[
+				"lis",
+				"list_of_row_vecs"
+			],
+			[
+				"row",
+				"row_vecs"
+			],
+			[
+				"work",
+				"worksheet"
+			],
+			[
+				"ge",
+				"get_sheetnames"
+			],
+			[
+				"exc",
+				"excel_files"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ma",
+				"Ma_list"
+			],
+			[
+				"di",
+				"disct_load"
+			],
+			[
+				"Lb",
+				"Lb"
+			],
+			[
+				"min",
+				"min360"
+			],
+			[
+				"mi",
+				"min180"
+			],
+			[
+				"rwb",
+				"rwb_header2_6_25_14"
+			],
+			[
+				"inter",
+				"interpolator"
+			],
+			[
+				"cp",
+				"Cp_b2"
+			],
+			[
+				"ex",
+				"extrapolator"
+			],
+			[
+				"re",
+				"remove  (function)"
+			],
+			[
+				"fil",
+				"filtered_dirlist"
+			],
+			[
+				"rw",
+				"rwbh2"
+			],
+			[
+				"filt",
+				"filter_dirlist"
+			],
+			[
+				"int",
+				"intflipper"
+			],
+			[
+				"sp",
+				"split_line"
+			],
+			[
+				"rea",
+				"read_raw"
+			],
+			[
+				"filte",
+				"filtered_dirlist"
+			],
+			[
+				"dirlist",
+				"dirlist_v"
+			],
+			[
+				"filter",
+				"filter_dirlist"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"def",
+				"define_dirnames"
+			],
+			[
+				"w",
+				"wind_tunnel_ang"
+			],
+			[
+				"angl",
+				"angle_data"
+			],
+			[
+				"ang",
+				"angle_data2"
+			],
+			[
+				"an",
+				"angle_data"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"cel",
+				"cell_value"
+			],
+			[
+				"cu",
+				"curr_cell"
+			],
+			[
+				"cur",
+				"curr_row"
+			],
+			[
+				"file",
+				"files2"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"f",
+				"files2"
+			],
+			[
+				"da",
+				"datadirls"
+			],
+			[
+				"tra",
+				"transcoords2origin"
+			],
+			[
+				"x",
+				"x1"
+			],
+			[
+				"Pm",
+				"pmlst"
+			],
+			[
+				"P",
+				"Plist"
+			],
+			[
+				"rn",
+				"rn_gx"
+			],
+			[
+				"files",
+				"files1"
+			],
+			[
+				"perc_",
+				"perc_res_all"
+			],
+			[
+				"perc",
+				"perc_res_all"
+			],
+			[
+				"per",
+				"perc_res_all"
+			],
+			[
+				"she",
+				"sheet2"
+			],
+			[
+				"sh",
+				"sheet1"
+			],
+			[
+				"load",
+				"load_data"
+			],
+			[
+				"m",
+				"m_loads"
+			],
+			[
+				"KS",
+				"KSS_2345"
+			],
+			[
+				"KSS",
+				"KSS_list"
+			],
+			[
+				"de",
+				"detJ"
+			],
+			[
+				"GS",
+				"GSTrans"
+			],
+			[
+				"stress",
+				"stress_list"
+			],
+			[
+				"rd_",
+				"rd_loads"
+			],
+			[
+				"bo",
+				"rd_boundary"
+			],
+			[
+				"FE",
+				"FEA_Classes"
+			],
+			[
+				"F",
+				"FEA_Classes"
+			],
+			[
+				"va",
+				"vallist"
+			],
+			[
+				"key",
+				"keylist"
+			],
+			[
+				"plot",
+				"ploting"
+			],
+			[
+				"d2",
+				"d2_ls"
+			],
+			[
+				"d1",
+				"d1_ls"
+			],
+			[
+				"ig",
+				"ig19"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"cla",
+				"classA"
+			],
+			[
+				"vec",
+				"vecB"
+			],
+			[
+				"ve",
+				"vecA"
+			],
+			[
+				"num",
+				"numpy  (module)"
+			],
+			[
+				"tw",
+				"two"
+			],
+			[
+				"to",
+				"torsional"
+			],
+			[
+				"ind",
+				"indexval"
+			],
+			[
+				"in",
+				"inlist"
+			],
+			[
+				"c",
+				"compression"
+			],
+			[
+				"f_",
+				"f_M_eq1_nom"
+			],
+			[
+				"M_",
+				"M_eq1_nom"
+			],
+			[
+				"mid",
+				"mid_node"
+			],
+			[
+				"inp",
+				"inp_content"
+			],
+			[
+				"mat",
+				"mat_prop"
+			],
+			[
+				"NIB",
+				"NIB_Block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data_collection/dataprep.py",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/classes.py",
+			"settings":
+			{
+				"buffer_size": 11499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "data_collection/DC.py",
+			"settings":
+			{
+				"buffer_size": 2610,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plotting/plotting.py",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tables/table.py",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/drawer1.py",
+			"settings":
+			{
+				"buffer_size": 20331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.286881349272, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.172581254281, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.172728633879, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': 0.282388581186, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': 0.267411937967, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': 0.175212460882, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.112814442453, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': 0.11034411315, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.125105366675, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.0812607877583, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.358761404768, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.197682748275, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.213693284107, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': 0.209897307373, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': 0.288141369536, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': 0.154468337441, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.115542229511, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': 0.155767312741, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.152741103334, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.135970240092, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.247472369104, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.189185809214, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.188698386286, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 4, 'w3n': 0.07654197283455802, 'GCp': 0.214490164564, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.358847324278186, 'ATGn': 5, 'w3n': 0.025513990944852672, 'GCp': 0.324288753286, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.6156386847769614}\n{'ATG': 2.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.03827098641727901, 'GCp': 0.120600458672, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.461729013582721}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.0834029750082, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.064663280662152, 'GCp': 0.148134415835, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.43533671933784795}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': 0.129561297217, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.114906994572, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.26865140535, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.2284687666, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.197390582824, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.287441505455, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.3333333333333333, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.295488697722, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.6666666666666666}\n{'ATG': 2.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.133702257836, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.101977550187, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.15746469502, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': 0.142392590275, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.139275534984, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.337651144424, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.307968227829, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.264106441005, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': 0.36422635147, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': 0.340602796991, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': 0.309475309011, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.189398644808, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': 0.289224640768, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.275327737544, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.256231362318, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.330625629788, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.361655344384, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.344199701476, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': 0.406621844934, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': 0.404817718387, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': 0.401834902633, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.263331359608, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': 0.35707345223, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.349256009512, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.320172131926, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.240504425662, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.360758854722, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.264670347085, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 4, 'w3n': 0.07654197283455802, 'GCp': 0.415553189055, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.358847324278186, 'ATGn': 5, 'w3n': 0.025513990944852672, 'GCp': 0.365754743531, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.6156386847769614}\n{'ATG': 2.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.03827098641727901, 'GCp': 0.318475118434, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.461729013582721}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.179647554952, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.064663280662152, 'GCp': 0.309329910207, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.43533671933784795}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': 0.287537975607, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.282304980969, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.271378960982, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.388418268215, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.311505209596, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.425769800321, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.3333333333333333, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.424880343373, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.6666666666666666}\n{'ATG': 2.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.34784390734, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.223905823015, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.339152308312, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': 0.346530322496, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.326484488947, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.435806534221, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.496869726277, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.441854957221, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': 0.666637169401, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': 0.590923036376, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': 0.591140536567, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.411414924759, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': 0.483948095748, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.518776180086, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.497404552764, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.500280925137, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.54344793238, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.521461964706, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': 0.6721175621, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': 0.576185382384, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': 0.634695059847, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.444197049547, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': 0.538383446754, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.539205804091, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.520134649426, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.443386592652, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.489911048029, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.489459360236, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 4, 'w3n': 0.07654197283455802, 'GCp': 0.606533395384, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.358847324278186, 'ATGn': 5, 'w3n': 0.025513990944852672, 'GCp': 0.585908571672, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.6156386847769614}\n{'ATG': 2.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.03827098641727901, 'GCp': 0.562705711113, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.461729013582721}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.399540186835, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.064663280662152, 'GCp': 0.480311756892, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.43533671933784795}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': 0.523293760084, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.474883708876, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.451680820648, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.507015063789, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.467236187501, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.626314381563, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.3333333333333333, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.569451479057, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.6666666666666666}\n{'ATG': 2.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.557335063536, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.390960150179, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.501473321921, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': 0.52737682764, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.483636961701, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.244913116301, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.239098716269, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.304153341356, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.283806085491, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.193748488935, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.185745035231, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.126783612561, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.199389701755, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.163662552714, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.107405612549, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.313396566587, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.314235010856, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.286019606193, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.266448066177, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.204242428001, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.246136163671, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.163905282044, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.240961245685, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.16701384493, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.135836177324, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.281431098188, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.199377395921, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.28617275727, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.237166390328, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.076541972834558, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.226428197702, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.17245247436, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.129374434855, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.129326561324304, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.190471540427, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.8706734386756959}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': 0.157438539517, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.101079917143, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.282344198707, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.262564097061, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.285152469713, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.28980253572, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.226101629014, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.176363936123, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.135457502034, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.19425565364, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': 0.161620769838, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.100813162506, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.38614192221, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.295973628818, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.289794955679, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.345313939697, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.238192592755, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.245140208435, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.191741465697, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.305492982526, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.171090503397, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.193860475092, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.52399185374, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.340614785191, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.306712916162, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.283598864029, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.269529320779, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.28068720169, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.292215377372, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.340181452995, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.228370877146, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.25040837311, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 1, 'w3n': 0.07654197283455802, 'GCp': 0.382729231728, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.320124061344, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.282938537526, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.260099330591, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.076541972834558, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.210887747904, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.208685426283, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.163013132038, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.129326561324304, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.285972265886, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.8706734386756959}\n{'ATG': 1.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': 0.165488694992, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 1.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.200197842308, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.425681712436, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.356699563748, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.268985910375, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.237371750564, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.268406501506, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.221727264044, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.218220854228, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.300355976133, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': 0.207688119752, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 1.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.23420309133, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.601821327912, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.46390304544, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.418840693014, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.319918282327, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.406047240779, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.345805351585, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.389197369066, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.454763282018, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.328423644605, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.356871172515, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': 0.608961865597, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.474787246685, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.458295478688, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.356423948021, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.419429574985, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.401196306799, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.413063281334, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.499066266143, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': 0.380895443244, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.403524970523, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 1, 'w3n': 0.07654197283455802, 'GCp': 0.599080458575, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.447819749599, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.39227706218, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.304532603429, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.076541972834558, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.366182098773, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.363687748137, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.372777206681, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.129326561324304, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.430237186608, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.8706734386756959}\n{'ATG': 1.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': 0.323584082333, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 1.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.339723263301, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': 0.59443551037, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': 0.461473201004, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': 0.422720559917, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': 0.313825751398, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 5, 'w3n': 0.0, 'GCp': 0.373416607567, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 6, 'w3n': 0.0, 'GCp': 0.349260476167, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': 0.379695144261, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 8, 'w3n': 0.0, 'GCp': 0.448603460645, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': 0.328712717359, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 1.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': 0.348052624615, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'max', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.757666500908, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.9000514261, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.853943488776, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': -1.1120340493, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': -0.717989541724, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': -1.21859286254, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.944835329824, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': -0.868980392112, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.820625261991, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.785494815116, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.605894510211, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.871698832912, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.784227179155, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': -0.981126286668, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': -0.697516725237, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': -0.885240430266, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.723319324101, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': -0.566379892137, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.607254699573, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.548672795217, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.619558606377, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.864160216178, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.773988967209, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 4, 'w3n': 0.07654197283455802, 'GCp': -0.957840878437, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.358847324278186, 'ATGn': 5, 'w3n': 0.025513990944852672, 'GCp': -0.741695130032, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.6156386847769614}\n{'ATG': 2.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.03827098641727901, 'GCp': -0.745288601374, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.461729013582721}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.634510030563, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.064663280662152, 'GCp': -0.596480481178, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.43533671933784795}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': -0.613811892316, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 0.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.515915921244, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.550623635711, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.88409231987, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.826935016689, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.963830567824, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.3333333333333333, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.741614143185, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.6666666666666666}\n{'ATG': 2.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.830222096647, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.640077421778, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.594356008972, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': -0.641171090204, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.550663142534, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.569642791524, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.770636248829, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.732820834521, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': -0.724937488906, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': -0.58505402393, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': -0.71331010846, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.462564745623, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': -0.653911261993, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.55405068282, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 205.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.504271211143, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.494039090787, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.751682437588, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.73676942482, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': -0.622351526717, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': -0.589623534694, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': -0.59632216053, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.415680424919, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': -0.604076024909, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.497233459806, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 206.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.46635995704, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.492307369844, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.7993084824, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.772525472295, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 4, 'w3n': 0.07654197283455802, 'GCp': -0.692369268714, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.358847324278186, 'ATGn': 5, 'w3n': 0.025513990944852672, 'GCp': -0.594988668685, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.6156386847769614}\n{'ATG': 2.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.03827098641727901, 'GCp': -0.659909323569, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.461729013582721}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.48997082508, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.064663280662152, 'GCp': -0.636193330421, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.43533671933784795}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': -0.556368786218, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 0.0, 'run': 207.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.502822041617, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.561563160192, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.759993965566, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.700472060525, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.749647613892, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.3333333333333333, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.526344684058, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.6666666666666666}\n{'ATG': 2.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.668493214569, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.483119512349, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.57722215222, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': -0.554641219241, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 208.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.464041636328, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'30.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.476414290043, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.679448461528, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.558928830583, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': -0.617525057765, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': -0.415640094997, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': -0.587717215967, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.438115674392, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': -0.50010077531, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.441901978023, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 209.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.402593001697, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.496458993216, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 2.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.671664570457, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.502375287224, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 4, 'w3n': 0.15308394566911604, 'GCp': -0.631836241678, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.3843613152230387, 'ATGn': 5, 'w3n': 0.051027981889705344, 'GCp': -0.422370123304, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5646107028872559}\n{'ATG': 2.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.07654197283455802, 'GCp': -0.567975528183, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.42345802716544195}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.457093738449, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.129326561324304, 'GCp': -0.504397443156, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.37067343867569597}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.43707407805, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 0.0, 'run': 210.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.41295968944, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.493353983008, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.700042693883, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.58664055359, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.923458027165442, 'ATGn': 4, 'w3n': 0.07654197283455802, 'GCp': -0.531494378914, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.358847324278186, 'ATGn': 5, 'w3n': 0.025513990944852672, 'GCp': -0.441850864411, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.6156386847769614}\n{'ATG': 2.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.03827098641727901, 'GCp': -0.563004068208, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.461729013582721}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.387504884572, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.064663280662152, 'GCp': -0.57363934564, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.43533671933784795}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': -0.435526450426, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 0.0, 'run': 211.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.440593808508, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': -0.549942443217, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.709332155889, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.552384114266, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.516259840373, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.3333333333333333, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.440195909389, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.6666666666666666}\n{'ATG': 2.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.558869865669, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.37610260462, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 2.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.554058476864, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': -0.414362669611, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 0.0, 'run': 212.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.408337587758, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'45.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': -1.0697143118, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.895627300996, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u' ', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.693601398414, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.729378613463, 'AT': 90.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.442890700364, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.980172216134, 'AT': 108.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.81924051538, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.812942195949, 'AT': 144.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.633556494443, 'AT': 180.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 201.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.637868633202, 'AT': 270.0, 'RC': u'Not Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': -1.00824216484, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.81449944283, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 3.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.610493226176, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 4.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.520036346772, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.153083945669116, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.465677405657, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.846916054330884}\n{'ATG': 2.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.15308394566911604, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.628437521687, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8469160543308839}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.666234931525, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.258653122648608, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.572286804888, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.7413468773513919}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.09616729612533223, 'GCp': -0.407774941826, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.40383270387466774}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.19233459225066446, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.413381757681, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8076654077493355}\n{'ATG': 1.0, 'WD': 1.0, 'run': 202.0, 'On': 6.0, 'w2n': 0.8469160543308839, 'ATGn': 1, 'w3n': 0.15308394566911604, 'GCp': -1.10123902679, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.868861316147, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 3.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.595796744862, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 4.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.528440180795, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.076541972834558, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.417740440546, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 2.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.07654197283455802, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.512565540481, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.923458027165442}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.592389228881, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.129326561324304, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.617485018494, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.8706734386756959}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.048083648062666115, 'GCp': -0.373653527229, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.45191635193733387}\n{'ATG': 1.0, 'WD': 1.0, 'run': 203.0, 'On': 21.0, 'w2n': 0.09616729612533223, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.437062230677, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.9038327038746677}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 1.0, 'ATGn': 1, 'w3n': 0.0, 'GCp': -1.16609177527, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 2, 'w3n': 0.0, 'GCp': -0.839425494761, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 3.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 3, 'w3n': 0.0, 'GCp': -0.601113897865, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 4.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 4, 'w3n': 0.0, 'GCp': -0.498872593235, 'AT': 90.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 5, 'w3n': 0.0, 'GCp': -0.443255810954, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 6, 'w3n': 0.0, 'GCp': -0.530059035341, 'AT': 108.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 7, 'w3n': 0.0, 'GCp': -0.58941778466, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 2.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 8, 'w3n': 0.0, 'GCp': -0.592121475566, 'AT': 144.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.5, 'ATGn': 9, 'w3n': 0.0, 'GCp': -0.385824632724, 'AT': 180.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 0.5}\n{'ATG': 1.0, 'WD': 1.0, 'run': 204.0, 'On': 36.0, 'w2n': 0.0, 'ATGn': 10, 'w3n': 0.0, 'GCp': -0.422076799392, 'AT': 270.0, 'RC': u'Installed', 'alpha': u'14.0', 'mxmn': u'min', 'w1n': 1.0}\n\n[Finished in 2.5s]\n",
+			"file": "Build result",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 83760,
+				"line_ending": "Unix",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Set Syntax: Sublime Text Snippet (Raw)"
+			],
+			[
+				"pand",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"MATL",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"pow",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"puth",
+				"Search Anywhere: From Input (ask Search Engine)"
+			],
+			[
+				"code",
+				"Code Folding: Unfold All"
+			],
+			[
+				"code fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"migrate",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"SublimeREPL: Python"
+			],
+			[
+				"sni",
+				"Snippet: setf"
+			],
+			[
+				"snippet",
+				"Snippet: Emphasize text"
+			],
+			[
+				"build ",
+				"Build: Build"
+			],
+			[
+				"exec",
+				"Excel Exec: Execute a command in this window"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"filedif",
+				"FileDiffs: Menu"
+			],
+			[
+				"his",
+				"Clipboard History"
+			],
+			[
+				"hist",
+				"Clipboard History"
+			],
+			[
+				"search",
+				"Search Anywhere: From Input"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			],
+			[
+				"searc",
+				"Search Anywhere: From Input"
+			],
+			[
+				"sear",
+				"Search Anywhere: From Input"
+			],
+			[
+				"brow",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"syntax",
+				"Set Syntax: Markdown"
+			],
+			[
+				"level",
+				"Levels: Update"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"stac",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"StackOverflow: ",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"wra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"br",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"bro",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 50.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/data_collection/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/data_collection/dataprep.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/drawer2.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/tables/table.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/plotting/plotting.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/classes/classes.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/test.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/drawer1 bckup.py",
+		"/Users/evan/Dropbox/Career/Arduino_projects/Build result",
+		"/Users/evan/Dropbox/Career/Arduino_projects/Au.py",
+		"/Users/evan/Dropbox/Career/Arduino_projects/S1/sketch.ino",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/SPTAPTFB.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/SPTAPTFB3.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/SPTAPTFBV1.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/SPTAPTFBV1_1.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/SPTAPTFBV1_2.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/SPTAPTFB_1.py",
+		"/Users/evan/Downloads/eplib/dist/eplib-2.7/eplib.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/bridge.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/SPTAPTFB.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/Wind_Data_Visualization.py",
+		"/Users/evan/Dropbox/D110k_k_5_c1.sta",
+		"/Users/evan/Dropbox/D110k_k_5_c1.inp",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/ASCE_Res_Wind_Calc.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/At_plotter.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/Res_Area_avg_single.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/setup.py",
+		"/Users/evan/Documents/my life/computer/Evans_Python_lib/Build result",
+		"/Users/evan/Desktop/windtunnel data/wind_tunnel_ang.py",
+		"/Users/evan/Desktop/windtunnel data/rehab_windtunnel_data_6_25_14/rwb_header2_6_25_14.py",
+		"/Users/evan/Desktop/windtunnel data/windtunnel_col_atmpt2.py",
+		"/Users/evan/Desktop/windtunnel data/collect/fvecdata/DataFreq.py",
+		"/Users/evan/Documents/my life/computer/Evans_Python_lib/untitled",
+		"/Users/evan/Downloads/contour_demo.py",
+		"/Users/evan/Downloads/Build result",
+		"/Users/evan/Downloads/barb_demo.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/Res_Area_avg.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/test.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/MyFirstPackage.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/test1.md",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/Res_Area_avg_single_bckup.py",
+		"/Users/evan/Desktop/md/index.md",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/WTDATA_19june14/test.md",
+		"/Users/evan/Desktop/md/SYS_SA.md",
+		"/Users/evan/Desktop/md/test1.md",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/Pandoc/Pandoc.sublime-settings",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/SublimePandoc/Default (OSX).sublime-keymap",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Res_At_Gauge/style.css",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Res_At_Gauge/test.md",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Res_At_Gauge/index.html",
+		"/Users/evan/Dropbox/Career/CareerPlan/style.css",
+		"/Users/evan/Dropbox/Career/CareerPlan/table1style.css",
+		"/Users/evan/Dropbox/Career/CareerPlan/index2.html",
+		"/Users/evan/Dropbox/Career/CareerPlan/index.html",
+		"/Users/evan/Dropbox/Career/CareerPlan/table1.html",
+		"/Users/evan/Dropbox/Career/CareerPlan_7_27_2014.htm",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind.htm",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/colorschememapping.xml",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/header.htm",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/image001.emz",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/oledata.mso",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/item0001.xml",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/themedata.thmx",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/Time Line For Proposal Of Timeline For Comprehensive BOS To Wind_files/image004.png",
+		"/Users/evan/Dropbox/thesis/Final Document/Build result",
+		"/Users/evan/Desktop/windtunnel data/fvec_reader.m",
+		"/Users/evan/Dropbox/SBoS/GTech_SBOS_WOW_shared/Interpolation:extrapolation derivation.jpg",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/evan/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/evan/Desktop/windtunnel data/sbDATA_r/101_r/BOS R101_r Raw",
+		"/Users/evan/Desktop/windtunnel data/sbDATA_r/102_r/BOS R102_rP001 Wfm_r",
+		"/Users/evan/Desktop/windtunnel data/sbDATA_r/102_r/BOS R102_r Raw",
+		"/Users/evan/Desktop/windtunnel data/sbDATA_r/102_r/BOS R102_r",
+		"/Users/evan/Desktop/windtunnel data/rehab_windtunnel_data_6_25_14/rwb_main_6_25_14.py",
+		"/Users/evan/Desktop/windtunnel data/rehab_windtunnel_data_6_25_14/rehab_windtunnel_data_6_25_14.py",
+		"/Users/evan/Desktop/windtunnel data/rehab_windtunnel_data_6_25_14.py",
+		"/Library/Python/2.7/site-packages/docx-0.2.4-py2.7.egg/docx.py",
+		"/Users/evan/Desktop/windtunnel data/data_analysis_wd.py",
+		"/Users/evan/Desktop/windtunnel data/wind_tunnel.py",
+		"/Users/evan/Desktop/windtunnel data/Build result",
+		"/Users/evan/Dropbox/school/thesis/thesis writing/Background",
+		"/Users/evan/Dropbox/school/thesis/BC_STUDY/consolidated excel data/Build result",
+		"/Users/evan/Dropbox/school/thesis/BC_STUDY/consolidated excel data/Excel_Case_Mp_reader.py",
+		"/Users/evan/Dropbox/school/thesis/BC_STUDY/consolidated excel data/xlrder.py",
+		"/Users/evan/Dropbox/school/thesis/BC_STUDY/consolidated excel data/Excel_Case_Mp_reader",
+		"/Users/evan/Desktop/windtunnel data/sbDATA_r/105_r/BOS R105_r Raw",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/Systems/SYS_ANA/SA/anaconda_sava.py",
+		"/Users/evan/Dropbox/school/thesis/thesis writing/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/wind data.txt",
+		"/Users/evan/Desktop/Module1.bas",
+		"/Users/evan/Dropbox/school/thesis/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/Systems/SYS_ANA/SA/Build result",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/Systems/SYS_ANA/SA/anaconda_SA.py",
+		"/Users/evan/Desktop/windtunnel data/listdir.py",
+		"/Users/evan/Desktop/windtunnel data/sbDATA_r/101_r/BOS R101_r",
+		"/Users/evan/Desktop/windtunnel data/101/BOS R101P001 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P001 Wfm",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/Systems/SYS_ANA/SA/anaconda_SA_Classes.py",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel data/output.txt",
+		"/Users/evan/Dropbox/SBoS/SBOS_Prado/Systems/HQ.py",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P007 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P008 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P010 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P012 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P013 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P014 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P015 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P016 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P018 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P020 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P021 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P022 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P024 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P025 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P027 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P028 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P029 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P030 Wfm",
+		"/Users/evan/Desktop/windtunnel data/101a/BOS R101P032 Wfm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"w1c.app",
+			"if On",
+			"w1n",
+			"f.ATG.",
+			"Array_0",
+			"Array_0_6",
+			"w2",
+			"w1",
+			"DP.",
+			",",
+			"w1",
+			"1.75*5.5/A",
+			"1.25*5.5/A",
+			"2.5",
+			"0.5",
+			"self.",
+			"DP",
+			"self",
+			"o.AT ==",
+			"o.AT",
+			"o.",
+			"obj_ele_dict[x1]",
+			"x1",
+			"ele_dict",
+			"element",
+			"arg",
+			"	",
+			"Element",
+			"element",
+			"Element",
+			"SP_ele",
+			"SPconts",
+			"used to ",
+			"dynamic",
+			"manages the ",
+			"DC",
+			"SPconts",
+			"SPele",
+			")",
+			", ",
+			"x",
+			",",
+			"	",
+			"test.",
+			"fig = plt.figure(figsize=(8.27, 11.69), dpi=100)",
+			"fig = plot.",
+			"plot",
+			"#",
+			"#pdf_pages.savefig(fig)",
+			"#eplib.mkplt(x,y)",
+			"21*3",
+			"#",
+			"t =",
+			"##",
+			"#eplib.mkplot(x,y)",
+			"#eplib.mkplt(x,y)",
+			"#eplib.mkplot(x,y)",
+			"#plt.plot(x,y,)\n#plt.grid()\n#plt.axis([min(x), max(x), min(y), max(y)])\n#plt.show()",
+			"plt.plot(x,y,)",
+			"eplib.mkplt(x,y)",
+			"z2",
+			"zone2",
+			"z1",
+			"zone1",
+			"_0_",
+			"0-180",
+			"30",
+			"15",
+			"z1_0_s",
+			"z1_0_S",
+			"a30",
+			"_A",
+			"z2_1_A",
+			"_0_",
+			"0-180",
+			"30",
+			"45",
+			"30",
+			"mx",
+			"ft(",
+			", range(1,21), ATmap_A)[0]",
+			"ft(",
+			"range(1,21), ATmap_s)[0]",
+			",  range(1,21), ATmap_s)[0]",
+			"ATmap_s",
+			"ATmap_A",
+			"z1_1_A",
+			"(ft",
+			"#",
+			"x",
+			",",
+			"mn",
+			"z1_1_A",
+			"ATmap_A",
+			"ATmap_a",
+			"_s",
+			"ATmap_a",
+			"z1_1_A",
+			"[18.33]*len(ft(a30_0_mn_s.O6, z1_1_A))",
+			"ATmap_s",
+			"_A",
+			" =",
+			"_1",
+			" =",
+			"a15",
+			"21*3",
+			"*2",
+			"27",
+			"a15_0_mn_A",
+			"	",
+			"_0_mx",
+			"mx",
+			"_0_",
+			"mn",
+			"block_s",
+			"arg",
+			"block",
+			"mn",
+			"mx",
+			"][",
+			"mx",
+			"=",
+			"print",
+			"arg",
+			" ",
+			"      ",
+			"     ",
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data_collection/dataprep.py",
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								753,
+								753
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "classes/classes.py",
+					"settings":
+					{
+						"buffer_size": 11499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8465,
+								8465
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 700.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "data_collection/DC.py",
+					"settings":
+					{
+						"buffer_size": 2610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1568,
+								1568
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "plotting/plotting.py",
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tables/table.py",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/drawer1.py",
+					"settings":
+					{
+						"buffer_size": 20331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3687,
+								3687
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2561.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "Build result",
+					"settings":
+					{
+						"buffer_size": 83760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83760,
+								83760
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"result_base_dir": "/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014",
+							"result_file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+							"result_line_regex": "",
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7222.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.561183465565,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/evan/Dropbox/SBoS/SBOS_Prado/windtunnel_data/WTDATA_19june14/WTDscript_9_3_2014/main.py"
+			],
+			[
+				".h",
+				"/Users/evan/Dropbox/school/FEA/FEAproject/felm-compiler-bundle_2014/C++/FEM2D.h"
+			],
+			[
+				"fe",
+				"/Users/evan/Dropbox/school/FEA/FEA project/FEA2.py"
+			],
+			[
+				"fea",
+				"/Users/evan/Dropbox/school/FEA/FEA project/FEA2.py"
+			],
+			[
+				"hq",
+				"/Users/evan/Dropbox/SBoS/SBOS_Prado/Systems/HQ.py"
+			],
+			[
+				"l_1imp",
+				"BC _study/main/inp_chg/L_1imp.psf"
+			],
+			[
+				"inp_c",
+				"BC _study/main/inp_chg/inp_chng_mod_imp.py"
+			],
+			[
+				"inp_ch",
+				"BC _study/main/inp_chg/inp_chng_mod.py"
+			],
+			[
+				"l_1",
+				"BC _study/main/inp_chg/L_1.psf"
+			],
+			[
+				"inpch",
+				"BC _study/main/inp_chg/inp_chng_mod_imp.py"
+			],
+			[
+				"graph",
+				"older research/Yura/graphed results.xlsx"
+			],
+			[
+				"l",
+				"BC _study/main/inp_chg/L_1.psf"
+			],
+			[
+				"chginp",
+				"BC _study/main/inp_chg/inp_chng_mod_imp.py"
+			],
+			[
+				"l.py",
+				"BC _study/main/inp_chg/L.py"
+			],
+			[
+				"l_1im",
+				"BC _study/main/inp_chg/L_1imp.psf"
+			],
+			[
+				"leap",
+				"python_scripts/leap/Leap.py"
+			],
+			[
+				"defl_grapher",
+				"/Users/evan/Dropbox/school/thesis/DG28 paper studies/Mastan2/defl_grapher.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true
+}
